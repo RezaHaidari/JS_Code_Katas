@@ -2,9 +2,9 @@
   "name": "prime-factors",
   "version": "0.0.1",
   "description": "Prime Factors",
-  "main": "src/main.js",
+  "main": "src/PrimeFactors.js",
   "scripts": {
-    "start": "node src/main.js",
+    "start": "node src/PrimeFactors.js",
     "test": "ava"
   },
   "repository": {

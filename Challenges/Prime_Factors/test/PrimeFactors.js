@@ -48,7 +48,7 @@ test('it return [3,3] for 9', t =>{
 
 })
 
-test('it return [2,25,5,5] for 100', t =>{
+test('it return [2,2,5,5] for 100', t =>{
 
     t.deepEqual(primeFactors.generate(100),[2,2,5,5])
 
